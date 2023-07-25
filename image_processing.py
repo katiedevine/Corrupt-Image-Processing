@@ -1,6 +1,4 @@
-# Author: Katie Devine
-# McGill ID: 260833077
-# Assignment 4
+# image_processing
 
 import random
 import numpy as np
